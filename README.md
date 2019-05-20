@@ -28,6 +28,5 @@ run /tools/test_model.py
 run /tools/test_denoising.py
 
 # result
-noise image ![moise_image](https://github.com/yanqiAI/attentive-gan-denoising/blob/master/test_results/src_img.png)
-denoise image ![denoise_image](https://github.com/yanqiAI/attentive-gan-denoising/blob/master/test_results/denoising_ret.png)
-denoise and post process ![denoise and post process](https://github.com/yanqiAI/attentive-gan-denoising/blob/master/test_results/denoising_ret_post.png)
+noise image | denoise image  |  denoise and post process 
+![image](https://github.com/yanqiAI/attentive-gan-denoising/blob/master/img/0150915_out.jpg)
